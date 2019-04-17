@@ -1,0 +1,43 @@
+body{
+    font-family: 'Slabo 27px', serif;
+    text-align: justify;
+}
+/* Header Section */
+.center {
+    text-align:left;
+    color:rgb(5, 5, 105);
+}
+.left{
+    text-align:left;
+    color:rgb(5, 5, 105);
+}
+.a{
+    float:left;
+    width:50%;
+    padding:5px;
+}
+.check{
+    float:left;
+} 
+/* Side Section */
+.sidenav{
+    height:100%;
+    width:160px;
+    position:fixed;
+    top:0;
+    left:0;
+    background-color:rgb(5, 5, 105);
+    padding-top:20px;
+}
+/* Content */
+.main{
+    margin-left:160px;
+    padding:0px 10px;
+}
+.text{
+    font-weight:bold;
+    color:rgb(8, 8, 15);
+}
+.bold{
+    font-weight: bold;
+}
